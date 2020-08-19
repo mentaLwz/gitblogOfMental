@@ -62,7 +62,7 @@ def add_issue_info(issue, md):
 
 def add_md_recent(repo, md):
     new_five_issues = repo.get_issues()
-    if len(new_five_issues) >= 5:
+    if new_five_issues.totalCount >= 5:
         new_five_issues = new_five_issues[:5]
     else:
         print("No enough update")
