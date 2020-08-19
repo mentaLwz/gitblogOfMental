@@ -41,8 +41,8 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
-          echo ${{ secrets.Mental }}
-          python main.py ${{ secrets.Mental }}
+          echo ${{ secrets.GITBLOG }}
+          python main.py ${{ secrets.GITBLOG }}
         
       - name: Push README
         uses: github-actions-x/commit@v2.6

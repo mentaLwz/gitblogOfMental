@@ -102,4 +102,5 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("github_token", help="github_token")
     options = parser.parse_args()
+    # print(options.github_token)
     main(options.github_token)
