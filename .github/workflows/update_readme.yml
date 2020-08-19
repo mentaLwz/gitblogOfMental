@@ -47,7 +47,7 @@ jobs:
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.Mental }}
+          github-token: ${{ secrets.GITBLOG }}
           commit-message: "Refresh README"
           files: README.md
           rebase: 'true'
