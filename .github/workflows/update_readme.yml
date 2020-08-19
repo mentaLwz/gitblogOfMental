@@ -41,12 +41,13 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
-          python main.py ${{ secrets.MENTAL }}
+          echo ${{ secrets.Mental }}
+          python main.py ${{ secrets.Mental }}
         
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.MENTAL }}
+          github-token: ${{ secrets.Mental }}
           commit-message: "Refresh README"
           files: README.md
           rebase: 'true'

@@ -63,7 +63,7 @@ def add_issue_info(issue, md):
 def add_md_recent(repo, md):
     new_five_issues = repo.get_issues()[:5]
     with open(md, "a+", encoding="utf-8") as md:
-        md.write("## 最近更新: \n")
+        md.write("## 最近更新:  \n")
         for issue in new_five_issues:
             if isMe(issue):
                 add_issue_info(issue, md)
