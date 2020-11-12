@@ -2,11 +2,11 @@
 My personal blog
 
 ## 最近更新:  
+- [922. 按奇偶排序数组 II](https://github.com/mentaLwz/gitblogOfMental/issues/19)--2020-11-12
 - [1356. 根据数字二进制下 1 的数目排序](https://github.com/mentaLwz/gitblogOfMental/issues/18)--2020-11-06
 - [127. 单词接龙](https://github.com/mentaLwz/gitblogOfMental/issues/17)--2020-11-05
 - [57. 插入区间](https://github.com/mentaLwz/gitblogOfMental/issues/16)--2020-11-04
 - [140. 单词拆分 II](https://github.com/mentaLwz/gitblogOfMental/issues/15)--2020-11-01
-- [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/mentaLwz/gitblogOfMental/issues/14)--2020-10-31
 ## 2020
 - [茫茫然](https://github.com/mentaLwz/gitblogOfMental/issues/8)--2020-10-26
 - [记搬家](https://github.com/mentaLwz/gitblogOfMental/issues/6)--2020-09-19
@@ -17,6 +17,7 @@ My personal blog
 ## 2020 学了个Diao
 - [学了个diao10/27](https://github.com/mentaLwz/gitblogOfMental/issues/10)--2020-10-27
 ## Leetcode2020
+- [922. 按奇偶排序数组 II](https://github.com/mentaLwz/gitblogOfMental/issues/19)--2020-11-12
 - [1356. 根据数字二进制下 1 的数目排序](https://github.com/mentaLwz/gitblogOfMental/issues/18)--2020-11-06
 - [127. 单词接龙](https://github.com/mentaLwz/gitblogOfMental/issues/17)--2020-11-05
 - [57. 插入区间](https://github.com/mentaLwz/gitblogOfMental/issues/16)--2020-11-04
