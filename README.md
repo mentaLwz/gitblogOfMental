@@ -2,11 +2,11 @@
 My personal blog
 
 ## 最近更新:  
+- [Tutorial-2020](https://github.com/mentaLwz/gitblogOfMental/issues/22)--2020-11-21
 - [283. 移动零](https://github.com/mentaLwz/gitblogOfMental/issues/21)--2020-11-19
 - [TODO](https://github.com/mentaLwz/gitblogOfMental/issues/20)--2020-11-12
 - [922. 按奇偶排序数组 II](https://github.com/mentaLwz/gitblogOfMental/issues/19)--2020-11-12
 - [1356. 根据数字二进制下 1 的数目排序](https://github.com/mentaLwz/gitblogOfMental/issues/18)--2020-11-06
-- [127. 单词接龙](https://github.com/mentaLwz/gitblogOfMental/issues/17)--2020-11-05
 ## 2020
 - [茫茫然](https://github.com/mentaLwz/gitblogOfMental/issues/8)--2020-10-26
 - [记搬家](https://github.com/mentaLwz/gitblogOfMental/issues/6)--2020-09-19
@@ -30,5 +30,7 @@ My personal blog
 - [144  二叉树的前序遍历](https://github.com/mentaLwz/gitblogOfMental/issues/9)--2020-10-27
 ## TODO
 - [TODO](https://github.com/mentaLwz/gitblogOfMental/issues/20)--2020-11-12
+## Tutorial
+- [Tutorial-2020](https://github.com/mentaLwz/gitblogOfMental/issues/22)--2020-11-21
 ## 教育
 - [及时反馈加持之以恒](https://github.com/mentaLwz/gitblogOfMental/issues/2)--2020-08-23
