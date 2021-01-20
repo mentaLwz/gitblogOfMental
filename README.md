@@ -2,11 +2,11 @@
 My personal blog
 
 ## 最近更新:  
+- [硬着头皮学习](https://github.com/mentaLwz/gitblogOfMental/issues/24)--2021-01-20
 - [Movie to Look](https://github.com/mentaLwz/gitblogOfMental/issues/23)--2020-11-22
 - [Tutorial-2020](https://github.com/mentaLwz/gitblogOfMental/issues/22)--2020-11-21
 - [283. 移动零](https://github.com/mentaLwz/gitblogOfMental/issues/21)--2020-11-19
 - [TODO](https://github.com/mentaLwz/gitblogOfMental/issues/20)--2020-11-12
-- [922. 按奇偶排序数组 II](https://github.com/mentaLwz/gitblogOfMental/issues/19)--2020-11-12
 ## 2020
 - [茫茫然](https://github.com/mentaLwz/gitblogOfMental/issues/8)--2020-10-26
 - [记搬家](https://github.com/mentaLwz/gitblogOfMental/issues/6)--2020-09-19
@@ -18,6 +18,8 @@ My personal blog
 - [学了个diao10/27](https://github.com/mentaLwz/gitblogOfMental/issues/10)--2020-10-27
 ## 2020Movie
 - [Movie to Look](https://github.com/mentaLwz/gitblogOfMental/issues/23)--2020-11-22
+## 2021
+- [硬着头皮学习](https://github.com/mentaLwz/gitblogOfMental/issues/24)--2021-01-20
 ## Leetcode2020
 - [283. 移动零](https://github.com/mentaLwz/gitblogOfMental/issues/21)--2020-11-19
 - [922. 按奇偶排序数组 II](https://github.com/mentaLwz/gitblogOfMental/issues/19)--2020-11-12
