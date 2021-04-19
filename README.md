@@ -2,11 +2,11 @@
 My personal blog
 
 ## 最近更新:  
+- [术语](https://github.com/mentaLwz/gitblogOfMental/issues/29)--2021-04-19
 - [lc.213](https://github.com/mentaLwz/gitblogOfMental/issues/28)--2021-04-15
 - [when channel close](https://github.com/mentaLwz/gitblogOfMental/issues/27)--2021-04-03
 - [Go tips](https://github.com/mentaLwz/gitblogOfMental/issues/26)--2021-02-06
 - [一月的碎碎念](https://github.com/mentaLwz/gitblogOfMental/issues/25)--2021-01-31
-- [硬着头皮学习](https://github.com/mentaLwz/gitblogOfMental/issues/24)--2021-01-20
 ## 2020
 - [茫茫然](https://github.com/mentaLwz/gitblogOfMental/issues/8)--2020-10-26
 - [记搬家](https://github.com/mentaLwz/gitblogOfMental/issues/6)--2020-09-19
@@ -42,5 +42,7 @@ My personal blog
 - [Tutorial-2020](https://github.com/mentaLwz/gitblogOfMental/issues/22)--2020-11-21
 ## 教育
 - [及时反馈加持之以恒](https://github.com/mentaLwz/gitblogOfMental/issues/2)--2020-08-23
+## 术语
+- [术语](https://github.com/mentaLwz/gitblogOfMental/issues/29)--2021-04-19
 ## 记录
 - [一月的碎碎念](https://github.com/mentaLwz/gitblogOfMental/issues/25)--2021-01-31
