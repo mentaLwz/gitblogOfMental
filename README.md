@@ -14,18 +14,8 @@ My personal blog
 - [一切都太快](https://github.com/mentaLwz/gitblogOfMental/issues/4)--2020-08-29
 - [被过度消耗的生命](https://github.com/mentaLwz/gitblogOfMental/issues/3)--2020-08-23
 - [折腾了一晚上](https://github.com/mentaLwz/gitblogOfMental/issues/1)--2020-08-19
-## 2020 学了个Diao
-- [学了个diao10/27](https://github.com/mentaLwz/gitblogOfMental/issues/10)--2020-10-27
-## 2020Movie
-- [Movie to Look](https://github.com/mentaLwz/gitblogOfMental/issues/23)--2020-11-22
-## 2021
-- [Book to read](https://github.com/mentaLwz/gitblogOfMental/issues/31)--2021-05-11
-- [记录](https://github.com/mentaLwz/gitblogOfMental/issues/30)--2021-05-06
-- [一月的碎碎念](https://github.com/mentaLwz/gitblogOfMental/issues/25)--2021-01-31
-- [硬着头皮学习](https://github.com/mentaLwz/gitblogOfMental/issues/24)--2021-01-20
-## Golang
-- [when channel close](https://github.com/mentaLwz/gitblogOfMental/issues/27)--2021-04-03
-- [Go tips](https://github.com/mentaLwz/gitblogOfMental/issues/26)--2021-02-06
+## 教育
+- [及时反馈加持之以恒](https://github.com/mentaLwz/gitblogOfMental/issues/2)--2020-08-23
 ## Leetcode2020
 - [283. 移动零](https://github.com/mentaLwz/gitblogOfMental/issues/21)--2020-11-19
 - [922. 按奇偶排序数组 II](https://github.com/mentaLwz/gitblogOfMental/issues/19)--2020-11-12
@@ -38,13 +28,23 @@ My personal blog
 - [129. 求根到叶子节点数字之和](https://github.com/mentaLwz/gitblogOfMental/issues/12)--2020-10-29
 - [1207. 独一无二的出现次数](https://github.com/mentaLwz/gitblogOfMental/issues/11)--2020-10-28
 - [144  二叉树的前序遍历](https://github.com/mentaLwz/gitblogOfMental/issues/9)--2020-10-27
+## 2020 学了个Diao
+- [学了个diao10/27](https://github.com/mentaLwz/gitblogOfMental/issues/10)--2020-10-27
 ## TODO
 - [TODO](https://github.com/mentaLwz/gitblogOfMental/issues/20)--2020-11-12
 ## Tutorial
 - [Tutorial-2020](https://github.com/mentaLwz/gitblogOfMental/issues/22)--2020-11-21
-## 教育
-- [及时反馈加持之以恒](https://github.com/mentaLwz/gitblogOfMental/issues/2)--2020-08-23
-## 术语
-- [术语](https://github.com/mentaLwz/gitblogOfMental/issues/29)--2021-04-19
+## 2020Movie
+- [Movie to Look](https://github.com/mentaLwz/gitblogOfMental/issues/23)--2020-11-22
+## 2021
+- [Book to read](https://github.com/mentaLwz/gitblogOfMental/issues/31)--2021-05-11
+- [记录](https://github.com/mentaLwz/gitblogOfMental/issues/30)--2021-05-06
+- [一月的碎碎念](https://github.com/mentaLwz/gitblogOfMental/issues/25)--2021-01-31
+- [硬着头皮学习](https://github.com/mentaLwz/gitblogOfMental/issues/24)--2021-01-20
 ## 记录
 - [一月的碎碎念](https://github.com/mentaLwz/gitblogOfMental/issues/25)--2021-01-31
+## Golang
+- [when channel close](https://github.com/mentaLwz/gitblogOfMental/issues/27)--2021-04-03
+- [Go tips](https://github.com/mentaLwz/gitblogOfMental/issues/26)--2021-02-06
+## 术语
+- [术语](https://github.com/mentaLwz/gitblogOfMental/issues/29)--2021-04-19
