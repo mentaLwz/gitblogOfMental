@@ -13,8 +13,8 @@ on:
       - main.py
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: mentalwz
+  GITHUB_EMAIL: mentalwz@outlook.com
 
 jobs:
   sync:
@@ -48,7 +48,7 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
-          python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+          python main.py ${{ secrets.GITBLOG }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
 
       - name: Push README
         run: |
