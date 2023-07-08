@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [test10/27](https://github.com/mentaLwz/gitblogOfMental/issues/34)--2023-07-08
 - [debug](https://github.com/mentaLwz/gitblogOfMental/issues/33)--2023-05-29
 - [又开始更新](https://github.com/mentaLwz/gitblogOfMental/issues/32)--2023-05-29
 - [Book to read](https://github.com/mentaLwz/gitblogOfMental/issues/31)--2021-05-11
 - [记录](https://github.com/mentaLwz/gitblogOfMental/issues/30)--2021-05-06
-- [术语](https://github.com/mentaLwz/gitblogOfMental/issues/29)--2021-04-19
 ## Leetcode2020
 - [283. 移动零](https://github.com/mentaLwz/gitblogOfMental/issues/21)--2020-11-19
 - [922. 按奇偶排序数组 II](https://github.com/mentaLwz/gitblogOfMental/issues/19)--2020-11-12
